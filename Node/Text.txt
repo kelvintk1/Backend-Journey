@@ -1,0 +1,25 @@
+Month 1 Backend Assessment Questions
+Question 1: HTTP & REST API Basics
+Create a simple Express.js REST API with at least 4 endpoints (GET, POST, PUT, DELETE) for managing a resource of
+your choice (e.g., books, todos, products). Include proper HTTP status codes and JSON responses. Document what each
+endpoint does and which HTTP method/status code it uses.
+Deliverable: Push to GitHub and share the link.
+Question 2: Async/Await & Error Handling
+Build an Express endpoint that fetches data from an external API (e.g., JSONPlaceholder, OpenWeatherMap) using
+async/await. Implement proper error handling with try-catch blocks. Show what happens when the API is unavailable or
+returns invalid data.
+Deliverable: Push to GitHub and share the link.
+Question 3: Middleware & Request Flow
+Create an Express application with custom middleware that logs incoming requests (method, URL, timestamp). Add another
+middleware that validates incoming data. Explain how middleware executes in order and why it matters.
+Deliverable: Push to GitHub and share the link.
+Question 4: Modules & Code Organization
+Build a small Express project that is well-organized using modules. Split your code into separate files for routes, controllers,
+and utilities. Use both CommonJS (require/module.exports) in one file and ES modules (import/export) in another to show
+you understand both approaches.
+Deliverable: Push to GitHub and share the link.
+Question 5: Node.js Event Loop & Streams
+Write a Node.js script that demonstrates your understanding of the event loop and asynchronous behavior. Additionally,
+create a simple program that uses streams to read a large text file and process its data efficiently (instead of loading it all into
+memory at once).
+Deliverable: Push to GitHub and share the link.
